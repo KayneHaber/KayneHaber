@@ -5,7 +5,7 @@
 - I am proficient in Java, C#, SQL, PHP, HTML/CSS, JavaScript, JQuery, Ionic-React, Python, Lua
 - Also have experience in 2D Game Development using C#
 - Can work with FIGMA, Photoshop, and GIMP
-- 💞️ I’m looking to collaborate on any open source projects, as well as share my own, just looking to learn and grow
+- I’m looking to collaborate on any open source projects, as well as share my own, just looking to learn and grow
 - 📫 To reach me, use my email : kayne.haber@gmail.com
 
 <!---
