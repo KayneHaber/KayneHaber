@@ -1,13 +1,33 @@
-- 👋 Hi, I’m @KayneHaber
-<!-- 
-- 👀 I’m interested in tech, specifically backend development, football, music and music production
-- 🌱 I have an Advanced Diploma in IT(Software Development)
-- Starting a Bachelor of Science (Honours) in Software Development next scholastic year 2024/25 - 2027/28
-- I am proficient in Java, C#, SQL, PHP, HTML/CSS, JavaScript, JQuery, Ionic-React, Python, Lua
-- Also have experience in 2D Game Development using C#
-- Can work with FIGMA, Photoshop, and GIMP
+**Hi, I'm Kayne 👋**
 
-<!---
-KayneHaber/KayneHaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Development student and Frontend Software Engineer Intern at Betsson Group, based in Malta.
+
+I work mainly with TypeScript, JavaScript, Stencil, Angular, React, and automated testing. I enjoy solving real product problems, improving existing systems, and writing code that is reliable and maintainable.
+
+**What I'm working on:**
+
+Building and maintaining frontend features within a large micro-frontend architecture,
+
+Working with TypeScript, Stencil, Angular, React, Jest, Playwright, and Storybook,
+
+Completing my BSc (Hons) in Software Development,
+
+Developing a static analysis tool that detects and helps remediate XSS vulnerabilities in React applications,
+
+Expanding my knowledge of application security and DevSecOps.
+
+**Technologies:**
+
+Frontend: TypeScript, JavaScript, React, Angular, Stencil, HTML, CSS,
+Backend and general development: Java, C#, Python, C, SQL,
+Testing: Jest, Jasmine, Playwright, JUnit,
+Tools: Git, GitHub, Storybook, Node.js, npm, pnpm, Figma.
+
+**Current interests:**
+
+Application security,
+Static code analysis,
+Secure software development,
+Frontend architecture,
+Developer tooling and automation,
+Outside of development.
