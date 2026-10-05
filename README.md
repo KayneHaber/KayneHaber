@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Turning+complex+problems+into+clean+solutions;Learning+how+software+breaks+to+build+it+better;When+I+write+code%2C+only+God+and+I+understand+it.+After+that%2C+only+God+knows.)](https://git.io/typing-svg)
-
 </div>
 
 ## 👋 About me
