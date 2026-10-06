@@ -6,7 +6,7 @@
 
 ## 👋 About me
 
-I'm a Software Development student and Frontend Software Engineer Intern at **Betsson Group**, based in Malta 🇲🇹
+I'm a Software Development student with over 2 years of professional experience as a Frontend Software Engineer Intern at **Betsson Group**, based in Malta 🇲🇹
 
 I work with modern frontend technologies inside a large micro-frontend architecture, with a growing focus on application security and secure software development.
 
